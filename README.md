@@ -7,7 +7,7 @@
   <a href="mailto:mishrarishabh075@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Talk%20Tech-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href=["https://linkedin.com/in/rishabhworks](https://www.linkedin.com/in/rishabh--mishra/)" target="_blank">
+  <a href="https://www.linkedin.com/in/rishabh--mishra/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-RishabhM-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://github.com/rishabhworks" target="_blank">
@@ -48,11 +48,11 @@ quirks:
 
 ### 🎯 Projects That Actually Do Stuff
 
-| 🚀 Project           | 🎨 What It Does                        | 🔧 Tech Stack               |
+| 🚀 Project           | 🎨 What It Does                        | 🔧 Tech Stack                 |
 | -------------------- | -------------------------------------- | ----------------------------- |
-| **FinFlare**         | Makes taxes understandable for teens   | React, Node.js, SQL, Python   | 
+| **FinFlare**         | Makes taxes understandable for teens   | React, Node.js, SQL, Python   |
 | **Robotics Academy** | Teaches code to kids using real robots | Python, Arduino, C++, Blockly |
-| **Automagic ERP**    | Program management on autopilot        | MySQL, Git, ERP Systems       | 
+| **Automagic ERP**    | Program management on autopilot        | MySQL, Git, ERP Systems       |
 
 ---
 
@@ -87,5 +87,5 @@ Daily Reminder:
 ### 🌈 Final Thought
 
 <p align="center">
-  <img src="https://tse4.mm.bing.net/th?id=OIP.s-XccUcnjlS7JXyp3XuzCwHaHa&pid=Api" alt="Retro CRT Terminal" width="50%">
+  <img src="https://tse4.mm.bing.net/th?id=OIP.s-XccUcnjlS7JXyp3XuzCwHaHa&pid=Api" alt="Retro CRT Terminal" width="100%">
 </p>
