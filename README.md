@@ -87,5 +87,5 @@ Daily Reminder:
 ### 🌈 Final Thought
 
 <p align="center">
-  <img src="https://tse4.mm.bing.net/th?id=OIP.s-XccUcnjlS7JXyp3XuzCwHaHa&pid=Api" alt="Retro CRT Terminal" width="100%">
+  <img src="https://tse4.mm.bing.net/th?id=OIP.s-XccUcnjlS7JXyp3XuzCwHaHa&pid=Api" alt="Retro CRT Terminal" width="50%">
 </p>
