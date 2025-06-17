@@ -7,7 +7,7 @@
   <a href="mailto:mishrarishabh075@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Talk%20Tech-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/rishabhworks" target="_blank">
+  <a href=["https://linkedin.com/in/rishabhworks](https://www.linkedin.com/in/rishabh--mishra/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-RishabhM-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://github.com/rishabhworks" target="_blank">
