@@ -1,11 +1,11 @@
 <!-- ⚡ RISHABH MISHRA — CODE + IMPACT -->
 
-<h1 align="center">Hey there! I'm <span style="color:#FF6B81;">Rishabh Mishra</span> 👨‍💻</h1>
-<h3 align="center">CS Student 🧠 | Builder of EdTech & FinLit Tools 💡 | Robotics Whisperer 🤖</h3>
+<h1 align="center">Hi, I'm <span style="color:#FF6B81;">Rishabh Mishra</span> 👨‍💻</h1>
+<h3 align="center">Computer Science Student | EdTech & FinLit Builder | Robotics Mentor</h3>
 
 <p align="center">
   <a href="mailto:mishrarishabh075@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Talk%20Tech-red?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Connect-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/rishabh--mishra/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-RishabhM-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
@@ -15,77 +15,47 @@
   </a>
 </p>
 
+---
+
+### 👋 About Me
+- 🎓 Computer Science student @ Sheridan College (Data & Analytics focus)  
+- 🚀 Building **EdTech** & **Financial Literacy** tools that make complex topics easy to learn  
+- 🤖 Teaching kids to code & build real robots  
+- 💡 Passionate about impactful tech — from student tools to predictive analytics for SMBs  
+
+---
+
+### 🛠 Tech Stack
+- **Languages:** Java, Python, JavaScript (Node.js, React), C++  
+- **Frameworks:** Spring Boot, Angular, .NET MVC, Flask  
+- **Databases:** MySQL, PostgreSQL, SQLite  
+- **Other:** Git/GitHub, REST APIs, ERP Systems  
+
+---
+
+### 🚀 Featured Projects
+
+| Project            | Description                                      | Tech Stack                  |
+|--------------------|--------------------------------------------------|-----------------------------|
+| **FinFlare**       | Financial literacy platform for youth            | React, Node.js, SQL, Python |
+| **Robotics Academy** | Teaching kids coding with real robots          | Python, Arduino, C++, Blockly |
+| **SmartDemand Pro** | Predictive analytics & automation for SMBs      | Python, Flask, ML, SQL      |
+| **Automagic ERP**  | Lightweight ERP & process automation             | MySQL, ERP Systems, Git     |
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://tse3.mm.bing.net/th?id=OIP.krc88vR2wI4VxlI8mgMLKQHaHa&pid=Api" alt="Cyberpunk Alley View" width="80%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhworks&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
-### 🌟 Who Am I?
+### 💬 Let's Connect
+💌 **Email:** [mishrarishabh075@gmail.com](mailto:mishrarishabh075@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/rishabh--mishra](https://www.linkedin.com/in/rishabh--mishra/)  
+🐙 **GitHub:** [github.com/rishabhworks](https://github.com/rishabhworks)
 
-```yaml
-alias: CodeSculptor
-real_name: Rishabh Mishra
-currently: Computer Science Student @ Sheridan | FinTech Hacker | Robotics Mentor
-curiosity:
-  - Inventing digital learning experiences
-  - Making taxes less boring for youth
-  - Teaching robots to dance (literally)
-quirks:
-  - My bug tracker has emojis.
-  - I wrote my first Python loop while eating aloo paratha.
-```
+> “Push impact > push code.”
 
 ---
-
-### 🧠 Tech Playground
-
----
-
-### 📊 GitHub Activity Snapshot
-
----
-
-### 🎯 Projects That Actually Do Stuff
-
-| 🚀 Project           | 🎨 What It Does                        | 🔧 Tech Stack                 |
-| -------------------- | -------------------------------------- | ----------------------------- |
-| **FinFlare**         | Makes taxes understandable for teens   | React, Node.js, SQL, Python   |
-| **Robotics Academy** | Teaches code to kids using real robots | Python, Arduino, C++, Blockly |
-| **Automagic ERP**    | Program management on autopilot        | MySQL, Git, ERP Systems       |
-
----
-
-### 🧵 Console Confessions
-
-```bash
-> booting... welcome, human
-
-Rishabh --version
-  ▸ Web Dev: React, Angular, Node.js
-  ▸ Code Languages: Java, Python, C++
-  ▸ Databases: PostgreSQL, MySQL
-  ▸ Fun Stacks: Tax + Tech + Teens
-
-Daily Reminder:
-  ▸ "Push impact > push code."
-  ▸ "Design for users, not for applause."
-```
-
----
-
-### 🤝 Say Hello!
-
----
-
-### 💭 Rish-Quote
-
-> “You don't need to build the biggest thing — just the thing people actually use.”
-
----
-
-### 🌈 Final Thought
-
-<p align="center">
-  <img src="https://tse4.mm.bing.net/th?id=OIP.s-XccUcnjlS7JXyp3XuzCwHaHa&pid=Api" alt="Retro CRT Terminal" width="50%">
-</p>
