@@ -1,6 +1,6 @@
 <!-- 
     ╔══════════════════════════════════════════════════════════╗
-    ║  RISHABH MISHRA — Builder · Analyst · Comedian          ║
+    ║  RISHABH MISHRA — Builder · Analyst · Explorer           ║
     ╚══════════════════════════════════════════════════════════╝
 -->
 
