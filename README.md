@@ -110,7 +110,7 @@ philosophy: "ship fast, learn faster, make people laugh along the way"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishabhworks&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff6b81&icon_color=ff6b81&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishabhworks&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff6b81&icon_color=ff6b81&text_color=c9d1d9" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhworks&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ff6b81&fire=ff6b81&currStreakLabel=ff6b81" />
 
 </div>
@@ -131,6 +131,7 @@ philosophy: "ship fast, learn faster, make people laugh along the way"
 
 </div>
 
+> *⚠️ Snake animation requires a GitHub Action — [setup guide below](#snake-setup)*
 
 <br>
 
