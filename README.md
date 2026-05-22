@@ -131,8 +131,6 @@ philosophy: "ship fast, learn faster, make people laugh along the way"
 
 </div>
 
-> *⚠️ Snake animation requires a GitHub Action — [setup guide below](#snake-setup)*
-
 <br>
 
 ---
