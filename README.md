@@ -31,9 +31,9 @@
 ## `> whoami`
 
 ```yaml
-name: Rishabh "Ray" Mishra
+name: Rishabh Mishra
 location: Oakville, Ontario 🇨🇦
-education: Computer Science — Data Analytics @ Sheridan College (Apr 2027)
+education: Computer Science — Data Analytics @ Sheridan College (May 2028)
 roles:
   - Project Manager @ Enactus Canada
   - Robotics Course Instructor @ UCMAS
@@ -42,7 +42,7 @@ currently:
   - building AI-powered fraud detection systems
   - exploring cross-border import/export ventures
   - wrangling R and ggplot2 for statistics
-philosophy: "ship fast, learn faster, make people laugh along the way"
+philosophy: "ship fast, learn faster"
 ```
 
 <br>
@@ -69,7 +69,7 @@ philosophy: "ship fast, learn faster, make people laugh along the way"
 <tr>
 <td width="50%">
 
-### 💀 Skeleton — Full-Stack Project Scaffolder
+### 💀 Skeleton - Full-Stack Project Scaffolder
 > One command to scaffold your entire project. Pick your stack, generate bash commands, skip the boilerplate, start building.
 >
 > `React` `Python (Flask)` `MongoDB`
@@ -77,7 +77,7 @@ philosophy: "ship fast, learn faster, make people laugh along the way"
 </td>
 <td width="50%">
 
-### 💰 FinFlare — Financial Literacy for Youth
+### 💰 FinFlare - Financial Literacy for Youth
 > Making complex financial topics genuinely accessible for young people through interactive learning modules.
 >
 > `React` `Node.js` `SQL` `Python`
