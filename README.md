@@ -37,7 +37,7 @@ education: Computer Science — Data Analytics @ Sheridan College (May 2028)
 roles:
   - Project Manager @ Enactus Canada
   - Robotics Course Instructor @ UCMAS
-  - Stand-Up Comedian (yes, really)
+  - Data Analyst Intern @ TheTenders
 currently:
   - building AI-powered fraud detection systems
   - exploring cross-border import/export ventures
