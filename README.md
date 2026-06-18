@@ -36,7 +36,7 @@ location: Oakville, Ontario 🇨🇦
 education: Computer Science — Data Analytics @ Sheridan College (May 2028)
 roles:
   - Project Manager @ Enactus Canada
-  - Robotics Course Instructor @ UCMAS
+  - Program Coordinator @ UCMAS
   - Data Analyst Intern @ TheTenders
 currently:
   - building AI-powered fraud detection systems
