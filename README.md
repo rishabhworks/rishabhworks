@@ -10,7 +10,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF6B81&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=CS+%2B+Data+Analytics+%40+Sheridan+College;PM+%40+Enactus+Canada+%7C+Robotics+Instructor;building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF6B81&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=CS+%2B+Data+Analytics+%40+Sheridan+College;PM+%40+Enactus+Canada+%7C+Program+Coordinator;building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br>
 
