@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff6b81&height=220&section=header&text=Rishabh%20Mishra&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Data%20Analytics%20%7C%20Project%20Management%20%7C%20Stand-Up%20Comedy&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff6b81&height=220&section=header&text=Rishabh%20Mishra&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Data%20Analytics%20%7C%20Project%20Management%20%7C%20Program-Coordinator&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn)
 
 <br>
 
